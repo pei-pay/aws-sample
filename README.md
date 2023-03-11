@@ -1,0 +1,1 @@
+https://docs.aws.amazon.com/ja_jp/sdk-for-javascript/v2/developer-guide/getting-started-nodejs.html
